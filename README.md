@@ -11,14 +11,13 @@ https://obuqdesign.wordpress.com/2022/11/21/dragonfly/
 
 | Property | Value |
 |---|---|
-| Type | Tridimensional model (77 pieces) |
+| Type | Tridimensional model (19 pieces) |
 | Designed for | 3mm mdf or plywood |
-| Dimensions | Height: 120mm; Lenght: 530mm; Width: 620mm |
+| Dimensions | Height: 120mm; Lenght: 210mm; Width: 350mm |
 | Design file format | DXF R14 |
 | Units | mm |
-| Nº of laser-cut files | x5 (ReadyToCut layout) |
-| Frame | 250x300mm (ReadyToCut layout) |
-| Scalable | Yes (limited) |
+| Frame | 220x130mm (ReadyToCut layout) |
+| Scalable | Yes |
 
 <br>
 <hr>
